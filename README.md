@@ -53,3 +53,7 @@ The idea is to be able to plug-in any state-of-the-art model into EasyOCR. There
 
 ![plan](https://github.com/JaidedAI/EasyOCR/blob/master/examples/easyocr_framework.jpeg)
 
+
+## References 
+Jaided AI  : https://github.com/JaidedAI/EasyOCR
+WongKinYiu : https://github.com/WongKinYiu/yolov7
