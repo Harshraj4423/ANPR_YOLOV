@@ -21,6 +21,15 @@ python app.py
         <img src="./figure/gui.png" width="59%"/>
     </a>
 </div>
+
+Database in csv file
+
+<div align="center">
+    <a href="./">
+        <img src="./figure/record.png" width="59%"/>
+    </a>
+</div>
+ 
  
 
 ## Install requirements 
