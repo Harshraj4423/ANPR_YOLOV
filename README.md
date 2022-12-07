@@ -1,11 +1,7 @@
 # ANPR using YOLOv7
 
+### The goal of our project is to identify a vehicle of interest based on its number plate and mantain record of it's location along with owner's detail. This system can be implemented in public safety domain can be used for law-enforcemnet system.
 
-<div align="center">
-    <a href="./">
-        <img src="./figure/performance.png" width="79%"/>
-    </a>
-</div>
 
 ## Web Demo
 
