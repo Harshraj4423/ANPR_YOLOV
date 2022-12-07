@@ -1,3 +1,5 @@
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/tensorflow/models/blob/master/LICENSE)
+
 # ANPR using YOLOv7
 
 ### The goal of our project is to identify a vehicle of interest based on its number plate and mantain record of it's location along with owner's detail. This system can be implemented in public safety domain with law-enforcemnet purposes. Moreover ANPR can be used in advance parking system , tracking vechile speed and identifying  model of vehicle, plus the system can be consider alternative for fastag (which requires some protocols) like speed limit
@@ -55,5 +57,5 @@ The idea is to be able to plug-in any state-of-the-art model into EasyOCR. There
 
 
 ## References 
-Jaided AI  : https://github.com/JaidedAI/EasyOCR
-WongKinYiu : https://github.com/WongKinYiu/yolov7
+1) Jaided AI  : https://github.com/JaidedAI/EasyOCR
+2) WongKinYiu : https://github.com/WongKinYiu/yolov7
