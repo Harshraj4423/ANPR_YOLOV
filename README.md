@@ -137,37 +137,3 @@ See [instance.ipynb](https://github.com/WongKinYiu/yolov7/blob/main/tools/instan
     </a>
 </div>
 
-
-## Citation
-
-```
-@article{wang2022yolov7,
-  title={{YOLOv7}: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors},
-  author={Wang, Chien-Yao and Bochkovskiy, Alexey and Liao, Hong-Yuan Mark},
-  journal={arXiv preprint arXiv:2207.02696},
-  year={2022}
-}
-```
-
-
-## Teaser
-
-Yolov7-semantic & YOLOv7-panoptic & YOLOv7-caption
-
-<div align="center">
-    <a href="./">
-        <img src="./figure/tennis.jpg" width="24%"/>
-    </a>
-    <a href="./">
-        <img src="./figure/tennis_semantic.jpg" width="24%"/>
-    </a>
-    <a href="./">
-        <img src="./figure/tennis_panoptic.png" width="24%"/>
-    </a>
-    <a href="./">
-        <img src="./figure/tennis_caption.png" width="24%"/>
-    </a>
-</div>
-
-
-
