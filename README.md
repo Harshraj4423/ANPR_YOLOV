@@ -22,7 +22,7 @@ python app.py
     </a>
 </div>
 
-Database in csv file
+Database in csv file:
 
 <div align="center">
     <a href="./">
@@ -37,13 +37,4 @@ Database in csv file
 ``` shell
 pip install -r  requirements.txt
 ```
-
-
-
-
-
-
-
-
-
 
