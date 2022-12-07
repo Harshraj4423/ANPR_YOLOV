@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/WongKinYiu/yolov7/blob/main/LICENSE.md)
 
 # ANPR using YOLOv7
 
