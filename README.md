@@ -10,6 +10,7 @@ On video:
 ``` shell
 python detection.py # change video path in main function 
 ```
+### Result
 
 On image(GUI):
 ``` shell
