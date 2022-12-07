@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/tensorflow/models/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 # ANPR using YOLOv7
 
